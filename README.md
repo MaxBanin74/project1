@@ -1,2 +1,1 @@
-# project1
-учбовий проект GoIT
+# 127-blended-1-2
